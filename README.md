@@ -140,6 +140,13 @@ We build for the future of AI-human collaboration.
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full text.
+
+---
+
+
 <p align="center">
   <i>"The details are not the details. They make the design." — Charles Eames</i><br><br>
   <b>Built with ❤️ by the Design Skill Collective.</b>

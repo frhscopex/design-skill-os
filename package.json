@@ -4,7 +4,7 @@
   "description": "Turning Standard AI into an Elite Design Strategist via specialized Design Skill OS.",
   "main": "cli/index.js",
   "bin": {
-    "design-skill": "./cli/index.js"
+    "design-skill": "cli/index.js"
   },
   "files": [
     "src/design-skill",
@@ -24,7 +24,7 @@
     "operating-system"
   ],
   "author": "Antigravity AI",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "chalk": "^4.1.2",
