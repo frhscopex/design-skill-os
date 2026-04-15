@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 The Cognitive "Brain": Derived from 10+ Design Bibles
+## 🧠 The Cognitive "Brain": Derived from 10+ Design Books
 
 **Design Skill OS** is not just a document; it's a professional-grade reasoning layer that transforms standard AI outputs into elite-level design masterworks. We have exhaustively synthesized principles from the "Design Bibles" to prime your AI agent with the strategic intent of a world-class Creative Director.
 
