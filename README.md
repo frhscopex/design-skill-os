@@ -40,35 +40,16 @@ The intelligence core is distilled from the collective wisdom of masters:
 ---
 
 
-## ⚡ What's New in v2.0: The Red Team Era
+## ⚡ What's New: The Red Team Protocol
 
-### **Adversarial Design Reasoning**
-The flagship feature of v2.0 is the **Red Team Protocol**. Your AI agent no longer just "makes things pretty"—it audits its own work for accessibility, cognitive load, and "schtick" (superficial trends).
+The AI no longer just "makes pixels"—it audits them. Every design of the **Design Skill OS** undergoes an automated "Red Team" gauntlet:
 
 ```text
-+----------------------------------------------------------------------------------------+
-|  AI AGENT: SELF-CRITIQUE LOG - [FINTECH DASHBOARD]                                     |
-+----------------------------------------------------------------------------------------+
-|                                                                                        |
-|  [PHASE 1] HEURISTIC CHECK:                                                            |
-|     ❌ FAILED: User control (Missing 'Cancel' button on transaction modal).            |
-|     ✅ PASSED: Visibility of system status (Loading skeletons implemented).            |
-|                                                                                        |
-|  [PHASE 2] ACCESSIBILITY AUDIT:                                                        |
-|     ❌ FAILED: Contrast on 'Pending' label (3.2:1). Requirements: 4.5:1.               |
-|     ✅ PASSED: Touch targets (All buttons 48px+).                                      |
-|                                                                                        |
-|  [PHASE 3] ANTI-SCHTICK FILTER:                                                        |
-|     ⚠️ WARNING: Detected generic 'AI Purple' gradient.                                 |
-|     REASONING: Violates 'Authenticity over Trend' (Section 23.3).                      |
-|     ACTION: Rewriting to 'Deep Slate' palette for banking trust.                       |
-|                                                                                        |
-|  [RESULT] RE-GENERATING CODE WITH HIGHER STRATEGIC INTENT...                           |
-|                                                                                        |
-+----------------------------------------------------------------------------------------+
+1. HEURISTICS    -> Fixes UX friction & logic errors.
+2. ACCESSIBILITY -> Ensures WCAG AA compliance (Contrast/Targets).
+3. ANTI-SCHTICK  -> Strips "lazy" AI trends for authentic branding.
 ```
 
----
 
 ## 🔥 Features that Ignite Creativity
 
