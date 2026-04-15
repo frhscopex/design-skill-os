@@ -1,36 +1,44 @@
-# Design Skill OS - Professional Release Pipeline
-name: 🚀 Publish to NPM
+# Design Skill OS - Ultimate Multi-Registry Release Pipeline
+name: 🚀 Global Publish (NPM + GitHub)
 
 on:
   release:
     types: [published]
 
 jobs:
-  build:
+  publish-npm:
+    name: 📦 Publish to NPM
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: 🛠 Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 24
           registry-url: 'https://registry.npmjs.org'
-
-      - name: 📦 Install Dependencies
-        run: npm install
-
-      - name: 🚀 Publish to NPM
-        run: |
-          echo "//registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}" > .npmrc
-          npm publish --access public
+      - run: npm install
+      - name: 🚀 Publish
+        run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: 📦 Publish to GitHub Packages
+  publish-github:
+    name: 🎨 Publish to GitHub Packages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@frhscopex'
+      - run: npm install
+      - name: 🚀 Publish to GitHub
         run: |
-          echo "//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}" >> .npmrc
-          npm publish --registry=https://npm.pkg.github.com
+          # Change the package name temporarily to include the org scope for GitHub
+          npm pkg set name=@frhscopex/design-skill-os
+          npm publish
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
