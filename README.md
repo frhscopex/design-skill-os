@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://github.com/frhscopex/design-skill-os/releases"><img src="https://img.shields.io/github/v/release/frhscopex/design-skill-os?style=for-the-badge&color=blue" alt="GitHub Release"></a>
-  <img src="https://img.shields.io/badge/reasoning_rules-161+-green?style=for-the-badge" alt="161 Reasoning Rules">
-  <img src="https://img.shields.io/badge/UI_styles-67-purple?style=for-the-badge" alt="67 UI Styles">
-  <img src="https://img.shields.io/badge/knowledge-10_Books-orange?style=for-the-badge" alt="10 Design Books">
+  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/Reasoning_Rules-161-green?style=for-the-badge" alt="161 Reasoning Rules"></a>
+  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/UI_Styles-67-purple?style=for-the-badge" alt="67 UI Styles"></a>
+  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/Design_Books-10-orange?style=for-the-badge" alt="10 Design Books"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/frhscopex/design-skill-os?style=for-the-badge&color=green" alt="License"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/design-skill-os"><img src="https://img.shields.io/npm/v/design-skill-os?style=flat-square&logo=npm&label=CLI" alt="npm"></a>
-  <a href="https://www.npmjs.com/package/design-skill-os"><img src="https://img.shields.io/npm/dm/design-skill-os?style=flat-square&label=downloads" alt="npm downloads"></a>
-  <a href="https://github.com/frhscopex/design-skill-os/stargazers"><img src="https://img.shields.io/github/stars/frhscopex/design-skill-os?style=flat-square&logo=github" alt="GitHub stars"></a>
+  <a href="https://www.npmjs.com/package/design-skill-os"><img src="https://img.shields.io/npm/v/design-skill-os?style=for-the-badge&logo=npm&label=npm" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/design-skill-os"><img src="https://img.shields.io/npm/dm/design-skill-os?style=for-the-badge&label=npm%20downloads" alt="npm downloads"></a>
+  <a href="https://github.com/frhscopex/design-skill-os/stargazers"><img src="https://img.shields.io/github/stars/frhscopex/design-skill-os?style=for-the-badge&logo=github" alt="GitHub stars"></a>
 </p>
 
 ---
