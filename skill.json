@@ -1,0 +1,17 @@
+{
+    "name": "design-skill-os",
+    "version": "1.0.0",
+    "description": "Professional Design Skill for AI Agents",
+    "entry": "src/design-skill/SKILL.md",
+    "scripts": {
+        "search": "src/design-skill/scripts/search.py"
+    },
+    "tools": [
+        {
+            "name": "design_system",
+            "description": "Generate a design system based on project requirements"
+        }
+    ],
+    "author": "Antigravity AI",
+    "license": "ISC"
+}

@@ -1,0 +1,146 @@
+# Design Skill OS Pro Max ⚡
+
+<p align="center">
+  <a href="https://github.com/frhscopex/design-skill-os/releases"><img src="https://img.shields.io/github/v/release/frhscopex/design-skill-os?style=for-the-badge&color=blue" alt="GitHub Release"></a>
+  <img src="https://img.shields.io/badge/reasoning_rules-161+-green?style=for-the-badge" alt="161 Reasoning Rules">
+  <img src="https://img.shields.io/badge/UI_styles-67-purple?style=for-the-badge" alt="67 UI Styles">
+  <img src="https://img.shields.io/badge/knowledge-10_Books-orange?style=for-the-badge" alt="10 Design Books">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/frhscopex/design-skill-os?style=for-the-badge&color=green" alt="License"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/design-skill-os"><img src="https://img.shields.io/npm/v/design-skill-os?style=flat-square&logo=npm&label=CLI" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/design-skill-os"><img src="https://img.shields.io/npm/dm/design-skill-os?style=flat-square&label=downloads" alt="npm downloads"></a>
+  <a href="https://github.com/frhscopex/design-skill-os/stargazers"><img src="https://img.shields.io/github/stars/frhscopex/design-skill-os?style=flat-square&logo=github" alt="GitHub stars"></a>
+</p>
+
+---
+
+### **The Cognitive "Brain" for AI-Driven Design.**
+**Design Skill OS** is not just a document; it's a professional-grade reasoning layer that transforms standard AI outputs into elite-level design masterworks. Synthesized from 10+ industry bibles (Glaser, Lupton, Bierut), it primes your AI agent with the strategic intent of a world-class CD.
+
+---
+
+## ⚡ What's New in v2.0: The Red Team Era
+
+### **Adversarial Design Reasoning**
+The flagship feature of v2.0 is the **Red Team Protocol**. Your AI agent no longer just "makes things pretty"—it audits its own work for accessibility, cognitive load, and "schtick" (superficial trends).
+
+```text
++----------------------------------------------------------------------------------------+
+|  AI AGENT: SELF-CRITIQUE LOG - [FINTECH DASHBOARD]                                     |
++----------------------------------------------------------------------------------------+
+|                                                                                        |
+|  [PHASE 1] HEURISTIC CHECK:                                                            |
+|     ❌ FAILED: User control (Missing 'Cancel' button on transaction modal).            |
+|     ✅ PASSED: Visibility of system status (Loading skeletons implemented).            |
+|                                                                                        |
+|  [PHASE 2] ACCESSIBILITY AUDIT:                                                        |
+|     ❌ FAILED: Contrast on 'Pending' label (3.2:1). Requirements: 4.5:1.               |
+|     ✅ PASSED: Touch targets (All buttons 48px+).                                      |
+|                                                                                        |
+|  [PHASE 3] ANTI-SCHTICK FILTER:                                                        |
+|     ⚠️ WARNING: Detected generic 'AI Purple' gradient.                                 |
+|     REASONING: Violates 'Authenticity over Trend' (Section 23.3).                      |
+|     ACTION: Rewriting to 'Deep Slate' palette for banking trust.                       |
+|                                                                                        |
+|  [RESULT] RE-GENERATING CODE WITH HIGHER STRATEGIC INTENT...                           |
+|                                                                                        |
++----------------------------------------------------------------------------------------+
+```
+
+---
+
+## 🔥 Features that Ignite Creativity
+
+- **🧠 161+ Reasoning Rules**: Specialized logic for everything from SaaS dashboards to Luxury E-commerce.
+- **🎨 Chromatic Mastery**: Implements the **60-30-10 Rule** and the **Golden Ratio** for typographic hierarchy.
+- **🛡️ Red Team Swarm**: Built-in adversarial protocols that kill "lazy" design defaults before they reach you.
+- **📜 Narrative Synthesis**: Forces AI to define a "Call to Adventure" and entry point for every page.
+- **🛠️ Multi-Assistant Native**: Tailored templates for Claude Code, Cursor, Windsurf, Antigravity, and Move.
+
+---
+
+## 🚀 Installation & Setup
+
+### **1. Global CLI Install**
+```bash
+npm install -g design-skill-os
+```
+
+### **2. Prime Your Assistant**
+Initialize the skill for your specific AI stack. This injects the "Brain" directly into your project's configuration.
+
+```bash
+# General Setup
+design-skill init --ai claude      # Claude Code / CLI
+design-skill init --ai cursor      # Cursor IDE
+design-skill init --ai windsurf    # Windsurf
+design-skill init --ai antigravity # Antigravity (Elite)
+design-skill init --ai all         # Global System Sync
+```
+
+### **3. Global Deployment (Recommended)**
+Available across all your projects without redundant initialization:
+```bash
+design-skill init --ai claude --global
+```
+
+---
+
+## 📖 The "Master Designer" Workflow
+
+Once installed, your AI agent gains instant access to the **Design Skill OS** core. Just chat naturally:
+
+> "Build a luxury watch landing page using the Design Skill OS rules. Ensure a Red Team check for color-blindness and narrative arc."
+
+**The Resulting Workflow:**
+1.  **Discovery**: AI maps brand personality using Section 17 rules.
+2.  **Strategy**: Defines the layout using the **Gestalt Principles** (Section 2).
+3.  **Execution**: Generates high-fidelity code with CSS variables and semantic HTML.
+4.  **Red Team**: Runs the **Adversarial Audit** (Section 23) to fix contrast and trend-chasing.
+
+---
+
+## 📂 Architecture Overview
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│  CORE SYSTEM: Design Skill OS                                   │
+├─────────────────────────────────────────────────────────────────┤
+│  src/design-skill/                                              │
+│     ├── SKILL.md        <-- The "Brain" (Knowledge Base)        │
+│     ├── data/           <-- 161+ Industry Reasoning Rules       │
+│     ├── scripts/        <-- AI Search & Logic Engine            │
+│     └── templates/      <-- High-Fidelity UI Patterns           │
+├─────────────────────────────────────────────────────────────────┤
+│  cli/                   <-- Dynamic Deployment Engine           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 Supported Industry Rules
+
+| Category | High-Fidelity Focus |
+| :--- | :--- |
+| **SaaS & Tech** | Efficiency, Clarity, Developer Tooling |
+| **Fintech** | Trust, Precision, Data Density |
+| **Luxury & E-com** | Emotion, Elegance, Storytelling |
+| **Healthcare** | Accessibility, Calm, Information Hierarchy |
+| **Creative Arts** | Portfolios, Branding, Experimental UI |
+
+---
+
+## 🤝 Contributing & Support
+
+We build for the future of AI-human collaboration.
+- **Stars** are our fuel. If this helps you build better, drop a ⭐.
+- **PRs** are welcome. See `CLAUDE.md` for the contributor's style guide.
+
+---
+
+<p align="center">
+  <i>"The details are not the details. They make the design." — Charles Eames</i><br><br>
+  <b>Built with ❤️ by the Design Skill Collective.</b>
+</p>
