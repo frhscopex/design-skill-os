@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Skill OS - Landing Page Template</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Derived from Section 5: Chromatic Mastery */
+        :root {
+            --primary: #0F172A;
+            --secondary: #334155;
+            --accent: #38BDF8;
+            --bg: #F8FAFC;
+        }
+    </style>
+</head>
+<body class="bg-[var(--bg)] text-[var(--primary)] antialiased">
+    <!-- Section 2: Gestalt Proximity applied to Navigation -->
+    <nav class="flex justify-between items-center px-8 py-6 max-w-7xl mx-auto">
+        <div class="text-2xl font-bold tracking-tighter">DESIGN SKILL OS</div>
+        <div class="hidden md:flex gap-8 font-medium text-[var(--secondary)]">
+            <a href="#" class="hover:text-[var(--accent)] transition-colors">Principles</a>
+            <a href="#" class="hover:text-[var(--accent)] transition-colors">Showcase</a>
+            <a href="#" class="hover:text-[var(--accent)] transition-colors">Docs</a>
+        </div>
+        <button class="bg-[var(--primary)] text-white px-6 py-2 rounded-full font-semibold hover:opacity-90 transition-opacity">
+            Install Skill
+        </button>
+    </nav>
+
+    <!-- Section 14: Narrative Arc - The Entry Point -->
+    <main class="max-w-7xl mx-auto px-8 py-24 text-center">
+        <h1 class="text-6xl md:text-8xl font-black tracking-tight mb-8">
+            The Brain for <span class="text-[var(--accent)]">AI-Driven</span> Design.
+        </h1>
+        <p class="text-xl text-[var(--secondary)] max-w-2xl mx-auto mb-12">
+            Synthesized from 10+ design bibles. Primes your AI agent with the strategic intent of a world-class Creative Director.
+        </p>
+        
+        <!-- Red Team Audit Representation -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto text-left">
+            <div class="p-8 border border-gray-200 rounded-3xl bg-white shadow-sm hover:shadow-md transition-shadow">
+                <div class="text-[var(--accent)] text-lg font-bold mb-2">01. HEURISTICS</div>
+                <p class="text-sm text-gray-500">Automated UX logic and friction checks based on Nielsen/Norman.</p>
+            </div>
+            <div class="p-8 border border-gray-200 rounded-3xl bg-white shadow-sm hover:shadow-md transition-shadow">
+                <div class="text-[var(--accent)] text-lg font-bold mb-2">02. ACCESSIBILITY</div>
+                <p class="text-sm text-gray-500">Rigorous WCAG AA compliance audits for every generated pixel.</p>
+            </div>
+            <div class="p-8 border border-gray-200 rounded-3xl bg-white shadow-sm hover:shadow-md transition-shadow">
+                <div class="text-[var(--accent)] text-lg font-bold mb-2">03. ANTI-SCHTICK</div>
+                <p class="text-sm text-gray-500">Strips superficial trends for authentic, narrative-driven branding.</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,74 @@
+{
+  "SaaS App": {
+    "keywords": [
+      "software",
+      "cloud",
+      "dashboard",
+      "b2b"
+    ],
+    "pattern": "Bento Grid Dashboard",
+    "colors": [
+      "#111827",
+      "#3B82F6",
+      "#F3F4F6"
+    ],
+    "fonts": [
+      "Inter",
+      "System Sans"
+    ],
+    "mood": "Technical / Efficient",
+    "intent": "Data visualization and task management",
+    "anti_patterns": [
+      "Over-decoration",
+      "Non-standard icons"
+    ]
+  },
+  "Fintech Banking": {
+    "keywords": [
+      "money",
+      "bank",
+      "crypto",
+      "trading"
+    ],
+    "pattern": "Trust-Centric Portfolio",
+    "colors": [
+      "#0F172A",
+      "#10B981",
+      "#1E293B"
+    ],
+    "fonts": [
+      "Public Sans",
+      "IBM Plex Mono"
+    ],
+    "mood": "Stable / Precise",
+    "intent": "Security and clarity",
+    "anti_patterns": [
+      "Vibrant gradients",
+      "Playful typography"
+    ]
+  },
+  "Luxury E-commerce": {
+    "keywords": [
+      "jewelry",
+      "watch",
+      "fashion",
+      "high-end"
+    ],
+    "pattern": "Editorial Storytelling",
+    "colors": [
+      "#000000",
+      "#D4AF37",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Cormorant Garamond",
+      "Montserrat"
+    ],
+    "mood": "Elegance / Exclusivity",
+    "intent": "Emotional resonance and desire",
+    "anti_patterns": [
+      "Flashy animations",
+      "Dense grids"
+    ]
+  }
+}
