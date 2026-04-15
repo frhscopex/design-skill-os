@@ -16,10 +16,29 @@
 
 ---
 
-### **The Cognitive "Brain" for AI-Driven Design.**
-**Design Skill OS** is not just a document; it's a professional-grade reasoning layer that transforms standard AI outputs into elite-level design masterworks. Synthesized from 10+ industry bibles (Glaser, Lupton, Bierut), it primes your AI agent with the strategic intent of a world-class CD.
+## 🧠 The Cognitive "Brain": Derived from 10+ Design Bibles
+
+**Design Skill OS** is not just a document; it's a professional-grade reasoning layer that transforms standard AI outputs into elite-level design masterworks. We have exhaustively synthesized principles from the "Design Bibles" to prime your AI agent with the strategic intent of a world-class Creative Director.
+
+### 📚 The Source of Truth
+The intelligence core is distilled from the collective wisdom of masters:
+- **Milton Glaser** (*Art is Work*): Rejecting "schtick" for authenticity.
+- **Ellen Lupton** (*Thinking with Type*): Mastering the grid and typographic hierarchy.
+- **Michael Bierut** (*How to Use Graphic Design to...*): Using design as a tool for clear communication.
+- **Bruce Mau** (*MC24*): Designing for massive change and performativity.
+- **Donald Norman** (*The Design of Everyday Things*): Cognitive psychology and affordances.
+- **Debbie Millman** (*Brand Thinking*): Mapping the emotional resonance of identity.
+- **Charles & Ray Eames**: The philosophy that "The details are not the details; they make the design."
+
+### 🛠 What the "Brain" Injects into your AI:
+- **[Section 2] Gestalt Sovereignty**: Forces the AI to use proximity, similarity, and closure to organize information naturally.
+- **[Section 5] Chromatic Mastery**: Implements the **60-30-10 Rule** and creates harmonious palettes based on industry psychology.
+- **[Section 8] Typographic Modular Scale**: Calculates line-height, leading, and pairing using the **Golden Ratio**.
+- **[Section 15] Digital Heuristics**: Applies the 10 core usability rules (Nielsen/Norman) to every interface layout.
+- **[Section 23] Red Team Audits**: Advanced adversarial self-critique based on **WCAG 2.1** and **Bruce Mau's performance metrics**.
 
 ---
+
 
 ## ⚡ What's New in v2.0: The Red Team Era
 
