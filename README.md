@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/frhscopex/design-skill-os/releases"><img src="https://img.shields.io/github/v/release/frhscopex/design-skill-os?style=for-the-badge&color=blue" alt="GitHub Release"></a>
-  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/Reasoning_Rules-161-green?style=for-the-badge" alt="161 Reasoning Rules"></a>
-  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/UI_Styles-67-purple?style=for-the-badge" alt="67 UI Styles"></a>
-  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/Design_Books-10-orange?style=for-the-badge" alt="10 Design Books"></a>
+  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/Reasoning%20Rules-161-green?style=for-the-badge" alt="161 Reasoning Rules"></a>
+  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/UI%20Styles-67-purple?style=for-the-badge" alt="67 UI Styles"></a>
+  <a href="src/design-skill/SKILL.md"><img src="https://img.shields.io/badge/Design%20Books-10-orange?style=for-the-badge" alt="10 Design Books"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/frhscopex/design-skill-os?style=for-the-badge&color=green" alt="License"></a>
 </p>
 
