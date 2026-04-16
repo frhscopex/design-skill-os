@@ -20,7 +20,7 @@ This is the **Design Skill OS**, an elite cognitive layer for AI agents. We don'
 ## 🧪 Development Standards
 1. **The Brain is Sacred**: Changes to `SKILL.md` must be rooted in proven design principles (Glaser, Lupton, etc.).
 2. **Adversarial First**: Every new feature must be compatible with the **Red Team Protocol** (Section 23).
-3. **Multi-Assistant Native**: Always verify path resolution across `claude`, `cursor`, and `windsurf`.
+3. **Multi-Assistant Native**: Always verify path resolution across `claude`, `cursor`, `windsurf`, `antigravity`, and `copilot`.
 4. **Pro-Max Output**: CLI feedback should be informative and use `chalk` for high-fidelity terminal styling.
 
 ## 📂 Folder Map

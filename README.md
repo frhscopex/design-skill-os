@@ -57,7 +57,7 @@ The AI no longer just "makes pixels"—it audits them. Every design of the **Des
 - **🎨 Chromatic Mastery**: Implements the **60-30-10 Rule** and the **Golden Ratio** for typographic hierarchy.
 - **🛡️ Red Team Swarm**: Built-in adversarial protocols that kill "lazy" design defaults before they reach you.
 - **📜 Narrative Synthesis**: Forces AI to define a "Call to Adventure" and entry point for every page.
-- **🛠️ Multi-Assistant Native**: Tailored templates for Claude Code, Cursor, Windsurf, Antigravity, and Move.
+- **🛠️ Multi-Assistant Native**: Tailored templates for Claude Code, Cursor, Windsurf, Antigravity, and GitHub Copilot.
 
 ---
 
@@ -77,6 +77,7 @@ design-skill init --ai claude      # Claude Code / CLI
 design-skill init --ai cursor      # Cursor IDE
 design-skill init --ai windsurf    # Windsurf
 design-skill init --ai antigravity # Antigravity (Elite)
+design-skill init --ai copilot     # GitHub Copilot (repo-local .github/skills)
 design-skill init --ai all         # Global System Sync
 ```
 
@@ -85,6 +86,8 @@ Available across all your projects without redundant initialization:
 ```bash
 design-skill init --ai claude --global
 ```
+
+> Note: `--global` is not supported for `copilot`; use local repo install to `.github/skills`.
 
 ---
 

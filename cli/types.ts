@@ -15,4 +15,4 @@ export interface SkillConfig {
     };
 }
 
-export type Platform = 'claude' | 'cursor' | 'windsurf' | 'antigravity' | 'all';
+export type Platform = 'claude' | 'cursor' | 'windsurf' | 'antigravity' | 'continue' | 'droid' | 'copilot' | 'all';

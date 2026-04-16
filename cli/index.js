@@ -27,7 +27,7 @@ const PLATFORMS = {
 program
     .command('init')
     .description('Initialize Design Skill OS for a specific AI assistant')
-    .option('--ai <platform>', 'Specify target AI assistant (claude, cursor, windsurf, etc.)', 'claude')
+    .option('--ai <platform>', 'Specify target AI assistant (claude, cursor, windsurf, antigravity, copilot, etc.)', 'claude')
     .option('--global', 'Install to global AI skill directory', false)
     .option('--offline', 'Use bundled assets without checking remote', false)
     .action(async (options) => {
@@ -116,4 +116,3 @@ program
     });
 
 program.parse();
-

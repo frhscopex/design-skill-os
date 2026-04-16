@@ -27,6 +27,15 @@ design-skill init
 ```
 This deploys the `SKILL.md` file (the "Design Brain") into your project workspace.
 
+Target a specific AI assistant when needed:
+```bash
+design-skill init --ai claude
+design-skill init --ai cursor
+design-skill init --ai windsurf
+design-skill init --ai antigravity
+design-skill init --ai copilot
+```
+
 ### Step 3: AI Activation
 Run the activation command to get your elite system instruction:
 ```bash
@@ -83,7 +92,7 @@ Why use this skill? Here is a deep-dive comparison into the **"Master vs. Mid"**
 ## 🛠 Available Commands
 | Command | What it does |
 | :--- | :--- |
-| `design-skill init` | Deploys the `SKILL.md` brain to your current directory. |
+| `design-skill init` | Deploys the `SKILL.md` brain to your current directory (supports `--ai copilot`). |
 | `design-skill prompt` | Generates the elite activation prompt for your AI. |
 | `design-skill view` | Shows a preview of the OS principles. |
 
