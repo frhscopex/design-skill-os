@@ -149,5 +149,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 <p align="center">
   <i>"The details are not the details. They make the design." — Charles Eames</i><br><br>
-  <b>Built with ❤️ by the Design Skill Collective.</b>
+  <b>Built with ❤️</b>
 </p>
