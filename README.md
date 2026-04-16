@@ -14,6 +14,12 @@
   <a href="https://github.com/frhscopex/design-skill-os/stargazers"><img src="https://img.shields.io/github/stars/frhscopex/design-skill-os?style=for-the-badge&logo=github" alt="GitHub stars"></a>
 </p>
 
+<p align="center">
+  <a href="https://www.shadowmind.me/">
+    <img src="docs/sss-showcase.png" alt="Shadowmind showcase" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 The Cognitive "Brain": Derived from 10+ Design Books
