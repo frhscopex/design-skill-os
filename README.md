@@ -71,7 +71,7 @@ The AI no longer just "makes pixels"—it audits them. Every design of the **Des
 
 ### **1. Global CLI Install**
 ```bash
-npm install i design-skill-os
+npm install -g design-skill-os
 ```
 
 ### **2. Prime Your Assistant**
