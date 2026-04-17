@@ -1,6 +1,6 @@
 {
   "name": "design-skill-os",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Turning Standard AI into an Elite Design Strategist via specialized Design Skill OS.",
   "main": "cli/index.js",
   "bin": {

@@ -24,7 +24,7 @@ ${COPILOT_BLOCK_END}`;
 program
     .name('design-skill')
     .description('Elite Design Skill OS CLI - Multi-AI Support')
-    .version('1.0.0');
+    .version('1.0.2');
 
 const PLATFORMS = {
     claude: { path: '.claude/skills', global: path.join(os.homedir(), '.claude/skills') },
@@ -129,8 +129,8 @@ program
     .command('versions')
     .description('List available versions')
     .action(() => {
-        console.log(chalk.green('Current Version: 1.0.0'));
-        console.log(chalk.dim('Available: 1.0.0 (latest)'));
+        console.log(chalk.green('Current Version: 1.0.2'));
+        console.log(chalk.dim('Available: 1.0.2 (latest)'));
     });
 
 program
@@ -138,7 +138,7 @@ program
     .description('Update to latest version')
     .action(() => {
         console.log(chalk.yellow('Checking for updates...'));
-        console.log(chalk.green('✔ You are already on the latest version (1.0.0).'));
+        console.log(chalk.green('✔ You are already on the latest version (1.0.2).'));
     });
 
 program

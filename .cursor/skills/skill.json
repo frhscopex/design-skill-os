@@ -1,6 +1,6 @@
 {
     "name": "design-skill-os",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Professional Design Skill for AI Agents",
     "entry": "src/design-skill/SKILL.md",
     "scripts": {
