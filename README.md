@@ -83,7 +83,7 @@ design-skill init --ai claude      # Claude Code / CLI
 design-skill init --ai cursor      # Cursor IDE
 design-skill init --ai windsurf    # Windsurf
 design-skill init --ai antigravity # Antigravity (Elite)
-design-skill init --ai copilot     # GitHub Copilot (repo-local .github/skills)
+design-skill init --ai copilot     # GitHub Copilot (repo-local .github/skills/design-skill-os + .github/copilot-instructions.md)
 design-skill init --ai all         # Global System Sync
 ```
 
@@ -93,7 +93,7 @@ Available across all your projects without redundant initialization:
 design-skill init --ai claude --global
 ```
 
-> Note: `--global` is not supported for `copilot`; use local repo install to `.github/skills`.
+> Note: `--global` is not supported for `copilot`; use local repo install.
 
 ---
 
